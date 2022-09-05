@@ -1,1 +1,2 @@
-# Detecting-misspecification-in-the-distribution-of-Random-Coefficients-in-demand-models-for-different
+# Detecting Misspecification in the Distribution of Random Coefficients in Demand Models for Differented Goods
+
