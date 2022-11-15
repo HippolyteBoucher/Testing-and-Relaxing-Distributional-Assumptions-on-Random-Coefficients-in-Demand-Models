@@ -1,4 +1,4 @@
-# Detecting Misspecification in the Distribution of Random Coefficients in Demand Models for Differented Goods
+# Testing and Relaxing Distributional Assumptions on Random Coefficients in Demand Models
 
 This repository contains the latest version of the working paper titled ''A Pivotal Nonparametric Test for Identication Robust Inference in Linear IV Models'' by Hippolyte Boucher, Gokçe Gökkoca, and Max Lesellier. Replication files for both the simulations and application are available upon request. Contact the writers at **Hippolyte.Boucher@outlook.com**, **gokce.gokkoca@ut-capitole.fr**, and **max.lesellier@ut-capitole.fr**. Do not copy or share without the authors' consent.
 
