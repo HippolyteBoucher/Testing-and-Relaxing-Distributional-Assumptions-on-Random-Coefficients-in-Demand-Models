@@ -1,6 +1,6 @@
 # A most powerful moment-based test for the distribution of random coefficients
 
-This repository contains the latest version of the working paper titled ''A most powerful moment-based test for the distribution of random coefficients*'' by Hippolyte Boucher, Gokçe Gökkoca, and Max Lesellier. Replication files for both the simulations and application are available upon request. Contact the writers at **hippolyte.boucher.mail@gmail.com**, **gokce.gokkoca@analysisgroup.com**, and **max.antoine.lesellier@umontreal.ca**. Do not copy or share without the authors' consent.
+This repository contains the latest version of the working paper titled ''A most powerful moment-based test for the distribution of random coefficients'' by Hippolyte Boucher, Gokçe Gökkoca, and Max Lesellier. Replication files for both the simulations and application are available upon request. Contact the writers at **hippolyte.boucher.mail@gmail.com**, **gokce.gokkoca@analysisgroup.com**, and **max.antoine.lesellier@umontreal.ca**. Do not copy or share without the authors' consent.
 
 
 ## Abstract
